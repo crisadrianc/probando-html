@@ -1,0 +1,46 @@
+/* {
+   *{ background-image: url(../images/)
+      } --para imagenes de fondo/ el* al inicio es para todo
+   } */
+/* { 
+   box-sizing: border-box --para dar un mismo estilo en un div(agrupacion) */
+body {
+    background-color: #33475b;
+    color: white;
+    font-family: Avenir;
+     }
+     p {
+      text-align: center; /* centrado del texto */
+      font: size 18px;
+      font-family: sans-serif;/* cambio de letra */
+      margin-top: 25;
+      margin-left: 25;
+        background-color: #182747;
+     }
+     form {
+        background-color: #628E90;
+     }
+     ul li {
+        background-color:#7D9D9C;
+     }
+     ul li a {
+        color: #EEE3CB;
+        text-decoration: none;
+     }
+     .centro {
+        text-align: center;
+     }
+     span {
+      color:#1b87f4;
+      font-weight: bold;
+   
+     }
+     img {
+      width: 600px;
+      height:350px;
+      margin-left: 400px;
+     }
+     .navbar {
+      background-color: #628E90;
+      list-style-type: none;
+     }
